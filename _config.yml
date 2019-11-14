@@ -21,14 +21,10 @@
 title: Guy Wuollet
 email: g wuollet [at] stanford . edu
 description: >- # this means to ignore newlines until "baseurl:"
-        Guy Wuollet is a Stanford student and cryptonetwork enthusiast. 
-        He's currently puruing coterminal BS and MS degrees in Computer Science, 
-        concentraing in AI and computer and network security respectively. 
-        He is a huge believer in decentralized networks and their potential to 
-        change how our world works. 
-        
-        Guy previously worked at Andreessen Horowitz and as research assistant 
-        in the Stanford Program on Energy and Sustainable Development. 
+
+        I'm a Stanford student studying CS with interests in cryptonetworks and the 
+        Internet. I previous worked at a16z and as a research assistant in the Econ 
+        department. In my free time I'm learning guitar and jui jitsu. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: guywuolletjr
