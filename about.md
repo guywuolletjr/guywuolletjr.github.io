@@ -1,3 +1,9 @@
+---
+layout: page 
+title: "About" 
+permalink: /about/
+---
+
 Guy Wuollet is a Stanford student and cryptonetwork enthusiast. He's currently pursuing
 coterminal BS and MS degrees in Computer Science, concentrating in AI and
 computer and network security respectively. He is a huge believer in
