@@ -1,6 +1,6 @@
 ---
 layout: page
-title: reading
+title: Reading
 permalink: /reading/
 ---
 
