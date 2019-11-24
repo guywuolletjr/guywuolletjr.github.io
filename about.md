@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-![Photo]({{guywuollet.com}}/assets/headshot.png)
+![Photo]({{guywuollet.com}}/assets/images/headshot.png)
 
 Guy Wuollet is a Stanford student and cryptonetwork enthusiast. He's currently pursuing
 coterminal BS and MS degrees in Computer Science, concentrating in AI and
