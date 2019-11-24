@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Thoughts
+permalink: /thoughts/ 
 --- 
 
-These are longer form articles/pieces/blogs that I've written! 
