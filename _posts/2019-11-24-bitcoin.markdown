@@ -7,6 +7,7 @@ categories: jekyll update
 
 ![Photo]({{guywuollet.com}}/assets/images/bitcoin.png)
 
+
 What else could my first real post be about? Bitcoin is the project that launched not only the blockchain movement, but also lead to one of the first successful embodiments of decentralized networks. Bitcoin is also the project that sent me down many rabbit holes and changed the way I think about the world.
 
 I first became interested in crypto late in 2017. My Grandmother asked my opinion of Bitcoin and left me at a loss. As the lone CS student in my extended family, I was used to fielding inquires from fixing printers to explaining Facetime. At that moment though, I had no real answer.
