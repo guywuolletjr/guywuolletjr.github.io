@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "On \"Bitcoin: A Peer-to-Peer Electronic Cash System\""
+date:   2019-12-2 8:00:00 -0800
+categories: jekyll update
+---
+
+![Photo]({{guywuollet.com}}/assets/images/bitcoin.png)
+
+What else could my first real post be about? Bitcoin is the project that launched not only the blockchain movement, but also lead to one of the first successful embodiments of decentralized networks. Bitcoin is also the project that sent me down many rabbit holes and changed the way I think about the world.
+
+I first became interested in crypto late in 2017. My Grandmother asked my opinion of Bitcoin and left me at a loss. As the lone CS student in my extended family, I was used to fielding inquires from fixing printers to explaining Facetime. At that moment though, I had no real answer.
+
+Her question forced me to learn. I had heard about Bitcoin, Ethereum, and _blockchain_, (which I still think is a terrible way to describe the abstraction of Bitcoin) but my only prior experience was from a friend. He was a EE/CS major, one year my senior, and probably the smartest person I knew at the time. "It's total bullshit. I honestly can't think of a single real use case for anything on Ethereum." He wasn't sold and neither was I.
+
+But I was intrigued. Most people I talked to had strong opinions, weakly informed, regarding crypto. Few things inspired such devotion or vitriol.
+
+The first time I read the Bitcoin whitepaper I didn't understand much. It was too much to take in. I read it every day for a week. By the end of the week I felt I had some sense of what all the hype was about.
+
+In the intervening time, I've decided that I'm fascinated by cryptonetworks, encryption, networking, economics and decentralization. I'm a hopeful Econ major turned CS kid turned IT aficionado. It's too much in my wheelhouse to work on anything else. I also like weird diets, have contemplated absconding to a life in the wilderness, and indulge in the belief that technology can solve most problems. I didn't find Bitcon, it found me.
