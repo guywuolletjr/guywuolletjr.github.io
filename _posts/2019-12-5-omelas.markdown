@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "On \"The Ones Who Walk Away From Omelas\""
+date:   2019-12-5 8:00:00 -0800
+categories: jekyll update
+---
+
+[Link to pdf](https://www.utilitarianism.com/nu/omelas.pdf)
+
+I often think about whether happiness is possible without some pain. My reflex is that it should be, but when I sit down and think I reconsider. I feel best after a hard workout. I am most engaged and inspired by hard classes. I have more energy and an outgoing enthusiam for other people during a fast. To take a scientific approach, I've rationalized this as [hormesis](https://en.wikipedia.org/wiki/Hormesis), but maybe it is something more.
+
+In \"The Ones Who Walk Away From Omelas\" I am particularly interested in the how the author believes pain lends credibility to joy. After revealing their pain, Le Guin boasts \"Now do you believe in them? Are they not more credible?.\"
+
+Perhaps Le Guin is challenging us to walk away from Omelas ourselves. To leave behind the notion that we (and others in our place) must suffer for happiness. I going to try to walk away. I'm going to believe in happiness without a counterbalance.

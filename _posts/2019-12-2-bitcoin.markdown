@@ -5,7 +5,7 @@ date:   2019-12-2 8:00:00 -0800
 categories: jekyll update
 ---
 
-![Photo]({{guywuollet.com}}/assets/images/bitcoin.png)
+![Bitcoin Logo]({{guywuollet.com}}/assets/images/bitcoin.png)
 
 
 What else could my first real post be about? Bitcoin is the project that launched not only the blockchain movement, but also lead to one of the first successful embodiments of decentralized networks. Bitcoin is also the project that sent me down many rabbit holes and changed the way I think about the world.
