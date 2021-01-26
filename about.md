@@ -4,11 +4,23 @@ title: "About"
 permalink: /about/
 ---
 
-![Headshot]({{guywuollet.com}}/assets/images/headshot.png)
+![Headshot]({{guywuollet.com}}/assets/images/headshot.jpg)
 
-Guy Wuollet is a Stanford student and cryptonetwork enthusiast. He's currently pursuing
-coterminal BS and MS degrees in Computer Science, concentrating in AI and
-computer and network security respectively. He is a huge believer in
-decentralized networks and their potential to change how our world works.
+Hey! I'm Guy.
 
-Guy previously worked at Andreessen Horowitz and as research assistant in the Stanford Economics Program on Energy and Sustainable Development.
+The kind of person who likes taking things apart and understanding their intricate
+details. These days I work on cryptonetworks,
+but I took a circuitous path. I'm interested in how people organize and
+communicate, and I believe in markets. Normally that would make me an
+economist. Instead I picked up coding.
+At Stanford I studied AI in hopes of replicating Daryl Morey, Billy Beane, and Sam Hinke.
+Even though I grew up in suburban Philadelphia, I'm still a diehard Boston Celtics fan.
+Somewhere in the middle, I discovered Bitcoin and fell down the rabbit hole.
+I'm a huge believer in the power of decentralized networks and their potential to
+change how our world works. I'm also fascinated by the Internet. Never before has
+a single medium contained so much human knowledge and connection. I believe the
+Internet is still in it's infancy and can grow to make the world a more empathetic
+and just place.
+
+I'm fortunate to work on the team at a16z crypto. If you're interested in cryptonetworks
+and the future of the Internet, please give me a shout!
