@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-![Headshot]({{guywuollet.com}}/assets/images/headshot.jpg)
+![Headshot]({{guywuollet.com}}/assets/images/new_headshot.jpg)
 
 Hey! I'm Guy.
 
